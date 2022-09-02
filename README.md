@@ -1,5 +1,5 @@
 # Jam Alarm
-(Arduino Project) Just ordinary alarm project, nothing special here.
+(Arduino Project) Just ordinary alarm project, nothing special here. jangan lupa bintang kak :)
 
 ## Hardware / Module
 <ul>
