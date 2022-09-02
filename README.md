@@ -26,5 +26,8 @@
   <li>D6 ~> Reset Button (Pulled down)</li>
 </ul>
 
-## Note
-Project created by kulibiner.
+## Troubleshooting
+<ul>
+  <li>If RTC cannot work properly try to connect VCC RTC to VIN Lolin V3 or 5V</li>
+  <li>If DFPlayer wont play the music check your SD Card</li>
+</ul>
